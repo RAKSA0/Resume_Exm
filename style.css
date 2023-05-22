@@ -1,0 +1,76 @@
+body {
+  font-family: Verdana;
+  color: #FFDEAD;
+  background-color: #2F4F4F;
+  word-wrap: break-word;
+}
+
+.spinner-grow{
+  width: 3rem; 
+  height: 3rem;
+}
+header {
+  background-color: #008080;
+  padding: 10px;
+  text-align: center;
+  border-top: 3px solid #330000;
+  border-bottom: 3px solid #330000;
+}
+
+#myImg {
+  margin-left: 80px;
+}
+
+#Resume-Info {
+  margin-left: 170px;
+  background-color: #20B2AA;
+  text-align: left;
+  padding: 10px;
+}
+
+.list li {
+  margin-top: 20px;
+}
+
+.list-p {
+  margin-bottom: 120px;
+}
+
+#Navigator {
+  float: left;
+  width: 175px;
+  padding-top: 10px;
+}
+
+#Navigator .navBar {
+  text-decoration: none;
+  margin: 13px;
+  display: block;
+  background-color: #FFDEAD;
+  text-align: center;
+  color: #330000;
+  padding: 5px;
+  border-radius: 5px;
+  transition: font-size 0.3s, border 0.3s;
+}
+
+.navBar:hover {
+  font-size: 1.0em;
+  border: 3px dashed #006400;
+}
+
+.totop {
+  text-decoration: none;
+  font-size: 20px;
+  font-weight: bolder;
+  color: black;
+  position: fixed;
+  bottom: 10px;
+  right: 10px;
+  background-color: #ccaa66;
+  border: 3px solid #330000;
+  padding: 10px;
+  border-radius: 60px;
+}
+
+
